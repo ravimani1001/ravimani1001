@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Mani.</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS**
 
 - 📫 Reach me **inforavimani@gmail.com**
 
