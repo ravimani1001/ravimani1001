@@ -2,29 +2,10 @@
 
 Results-driven **Software Developer** proficient in the **MERN stack** (Node.js, Express, MongoDB, React). Focused on engineering secure, scalable **backend solutions** and leveraging **AI/LLM** technologies to build intelligent, data-driven applications.
 
-### 💻 Technical Profile
-
-```
-// Profile.json - Core Skills Map
-
-{
-  "name": "Ravi Mani",
-  "title": "Software Developer",
-  "expertise": [
-    "Full Stack Development (MERN)",
-    "Backend Development & REST APIs",
-    "AI/LLM Integration"
-  ],
-  "skills": {
-    "languages": ["JavaScript", "Node.js", "C++", "Python"],
-    "frameworks": ["React.js", "Express.js", "Tailwind CSS", "Bootstrap"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-    "AI Integration": ["LangChain", "RAG"],
-    "tools": ["GitHub", "Postman", "VS Code", "Docker"]
-  }
-}
-
-```
+### 💻 Core Expertise
+* Full Stack Development (MERN)
+* Backend Development & REST APIs
+* AI/LLM Integration
 
 
 ### 📬 Let's Connect!
