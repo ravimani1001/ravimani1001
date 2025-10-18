@@ -12,6 +12,5 @@ Results-driven **Software Developer** proficient in the **MERN stack** (Node.js,
 
 I'm always open to discussing new projects, collaboration opportunities, and learning new things. Feel free to reach out!
 
-* [GitHub](https://github.com/ravimani1001)
 * [LinkedIn](https://www.linkedin.com/in/ravi-mani-6290112b6/)
 * [Email](mailto:inforavimani@gmail.com)
